@@ -3,6 +3,11 @@
 # MATERIALS
 
 # NOTES
+## 2025-04-02
+added second shelf, move light attachment point to underside of new shelf, cut holes to allow for drain bulkheads. 
+
+test crop of pothos is growing. 
+
 ## 2025-03-29
 two basins assembled. this involved using a 1+1/4" hole saw to cut holes in the bottom of the basins, which the ebb and flow high and low drain bulkheads were then passed through. 
 
